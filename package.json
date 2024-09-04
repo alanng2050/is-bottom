@@ -1,0 +1,34 @@
+{
+  "name": "@tinychange/is-bottom",
+  "version": "1.0.0",
+  "description": "",
+  "private": false,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "node build.js",
+    "dev": "node dev.js",
+    "publish": "npm publish --accesss public"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Alan",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.3.0",
+    "@typescript-eslint/parser": "^6.3.0",
+    "eslint": "^8.46.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-import-resolver-typescript": "^3.6.1",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.1",
+    "tsc-alias": "^1.8.8",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {}
+}
