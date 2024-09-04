@@ -9,11 +9,11 @@
     "test": "jest",
     "build": "node build.js",
     "dev": "node dev.js",
-    "publish": "npm publish --accesss public"
+    "deploy": "npm publish --accesss public"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/alanng2050/is-bottom.git"
   },
   "keywords": [],
   "author": "Alan",
